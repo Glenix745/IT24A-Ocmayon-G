@@ -1,0 +1,3 @@
+Name:Glen G Ocmayon
+Course:IT20A
+Activity : Basic of Git and Hub
